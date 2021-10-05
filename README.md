@@ -1,4 +1,4 @@
 # spagrrt.github.io
-Ham in my burger
+Ham in my burger.
 Why?
-Not sure
+Not sure.
