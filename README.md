@@ -1,4 +1,3 @@
 # spagrrt.github.io
-Ham in my burger.
-Why?
-Not sure.
+Welcome!
+[Test](spagrrt.github.io/test.html)
